@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name": "Android Development Course"
+    },
+    {
+        "id": "2",
+        "name": "Digital Marketing Course"
+    },
+    {
+        "id": "3",
+        "name": "Machine Learning Course"
+    },
+    {
+        "id": "4",
+        "name": "Web Development Course"
+    },
+    {
+        "id": "5",
+        "name": "Cyber Security Course"
+    },
+    {
+        "id": "6",
+        "name": "Artificial Intelligence Course"
+    }
+    
+
+]
