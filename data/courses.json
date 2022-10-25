@@ -2,31 +2,37 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab7a",
         "title": "Android Development",
+        "details": "Android Development Course is the study of the set of processes involved in developing software for smartphones, tablets, and other similar devices. As Web application development, mobile application development using android can also be considered as a part of the software development industry.Some Popular Android Development courses include BTech in Mobile Application and Information Security, Mobile App Development, BVoc Mobile Applications & Networking, iOS Development Courses, etc. Android Development Courses are also available on educational sites such as Udemy, edX, etc",
         "img":"https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YW5kcm9pZCUyMGFwcCUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id":"0282e0e58a5c404fbd15261f11c2ab8b",
         "title":"Digital Marketing",
+        "details": "Digital Marketing Specialization is a bundle of seven-course certificates developed by ILLINOIS. This course includes topics like Digital Marketing Analytics, Search Engine Optimization, Social Media Marketing, and 3D Printing. It is an online certificate course that can be completed in about eight months. It helps you to learn intermediate and advanced level skills in the field of Digital marketing. Moreover, Once you complete these digital marketing courses, you will have the opportunity to apply the skills to a real-life capstone project setup in partnership with Grainger. ",
         "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80"
     },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab9c",
         "title": "Machine Learning",
+        "details": "This machine learning course offers Introduction to machine learning, data mining, and statistical pattern recognition. The course will also help you to draw from numerous case studies and applications. You will also learn about applying algorithms to create smart robots, medical informatics, audio database mining, and various other areas.",
         "img":"https://thumbs.dreamstime.com/b/machine-deep-learning-algorithms-artificial-intelligence-ai-automation-modern-technology-business-as-concept-134359416.jpg"
     },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab10d",
         "title": "Web development",
+        "details": "Web Development or website development is a method that allows professionals to create and maintain web pages. To make a website user-friendly and interactive, there is a lot of work that goes on, making it perform well to offer a seamless experience to users. Web Development helps in developing applications and websites on the Internet using programming languages. All websites and social media platforms that we see online are built using Web Development languages and techniques. Web Developers or Programmers are professionals who design web pages. They write a series of codes called programs in different programming languages. The job of a Web Developer is extremely difficult as they need to take a language, say English, and convert it into a computer understandable language like HTML or Python.",
         "img": "https://images.unsplash.com/photo-1545670723-196ed0954986?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80"
     },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab11e",
         "title": "Cyber Security",
+        "details": "Cyber Security consists of various technologies, practices, and processes that help in protecting a company's devices, data, programs, and networks from any damage, attack, or unauthorized access. This field deals with protecting the networks and systems of organizations from all sorts of digital and cyber-attacks. These cyberattacks generally plan to access and corrupt sensitive business data, extort money, etc. Cyber Security professionals are responsible for preventing such attacks and protecting the company. You can become a certified professional in this IT sector by signing up for an online Cyber Security course in India. There are more than 3,000 jobs available for professionals in Cyber Security in top MNCs.",
         "img": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab12f",
         "title": "Artificial Intelligence",
+        "details": "Artificial Intelligence (AI) is among the toughest courses in India and elsewhere. This is because this emerging technology is still being explored, and it can offer numerous possibilities that we could only dream of a few years back. However, since it is still being researched, you will have to keep yourself updated with the latest discoveries, techniques, etc. that are a part of it. Artificial Intelligence is a vast domain that enables computer systems to learn from their experiences and mimic human actions while performing various business tasks. Basically, this technology allows professionals to simulate human intelligence to machines so that they are capable of performing tasks like humans. Self-driving cars, playing chess with computers, etc. are all various reflections of this trending technology. AI makes use of Deep Learning techniques, neural networking, Machine Learning algorithms, Natural Language Processing, and other similar technologies to make it all happen. In simple words, AI comprises these technologies, and this domain can go beyond our imagination with its innovations.",
         "img": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1034&q=80"
     }
 ]
